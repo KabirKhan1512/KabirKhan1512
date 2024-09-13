@@ -1,35 +1,28 @@
-Hey , I'm Muhammad Kabir Ud Din!
+**Hey, I'm Muhammad Kabir Ud Din!**
 
+  
+**About Me 🚀**  
+🎓 I'm an aspiring programmer with advanced knowledge of Python.  
+🔨 I am currently learning HTML and CSS, and I will soon be starting a Data Engineering course to pursue a career as a Data Engineer.  
+👨‍💻 I'm passionate about data-related fields like Generative AI and Machine Learning, and I enjoy learning new technologies and concepts.
 
-About Me 🚀
+  
+**My Experiences 🙌**  
+I have worked on several basic Python projects, which are available in the repositories on my profile.
 
-🎓 I'm an Aspiring Programmer having advanced learning of Python.
+  
+**Technical Skills 🛠️**  
+- **Programming Languages**: Python, HTML, CSS  
+- **Libraries/Tools**: NumPy, Pandas, Matplotlib
 
-🔨 I am currently learning HTML and CSS. I am soon starting Data Engineering course to pursue career as Data Engineer.
+  
+**Certifications 📜**  
+- SMIT Certified Python Programmer
 
-👨‍💻 I'm interested in data-related fields like GenAI and Machine Learning & I enjoy learning new things.
+  
+**Honors & Awards 🏅**  
+- Gold Medalist in Master of Commerce from the University of Peshawar
 
-
-My Experiences 🙌
-
-I have worked on several basic projects of Python. Repos are added to the profile. 
-
-Technical Skills 🛠️
-
-𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔: Python, CSS, HTML
-
-𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔/𝑻𝒐𝒐𝒍𝒔: NumPy, Pandas, Matplotlib
-
-Certifications 📜
-
-SMIT Certified Python Programmer
-
-Honors & Awards 🏅
-
-Gold medalist in Master of Commerce from University of Peshawar
-
-Follow
-
-To follow my GitHub, Search by username KabirKhan1512
-
-
+  
+**Follow**  
+To follow me on GitHub, search for my username: **KabirKhan1512**
