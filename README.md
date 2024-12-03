@@ -28,4 +28,5 @@ I have worked on several basic Python projects, which are available in the repos
 **Follow**  
 To follow me on GitHub, search for my username: **KabirKhan1512**
 
+![Kabir Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirKhan1512&show_icons=true&theme=radical)
 
