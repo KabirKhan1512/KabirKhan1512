@@ -14,7 +14,7 @@ I have worked on several basic Python projects, which are available in the repos
 **Technical Skills 🛠️**  
 - **Programming Language**: Python
 - **Frontend Technologies**: HTML, CSS  
-- **Libraries/Tools**: NumPy, Pandas, Matplotlib
+- **Libraries/Tools**: NumPy, Pandas
 
   
 **Certifications 📜**  
