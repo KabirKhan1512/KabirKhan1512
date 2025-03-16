@@ -1,32 +1,33 @@
-**Hey, I'm Muhammad Kabir Ud Din!**
+# **Hey, I'm Muhammad Kabir Ud Din!** 🚀  
 
-  
-**About Me 🚀**  
-🎓 I'm an aspiring programmer with advanced knowledge of Python.  
-🔨 I am currently learning HTML and CSS, and I will soon be starting a Data Engineering course to pursue a career as a Data Engineer.  
-👨‍💻 I'm passionate about data-related fields like Generative AI and Machine Learning, and I enjoy learning new technologies and concepts.
+### **About Me**  
+🎓 **Aspiring Data Engineer & Tech Enthusiast**  
+I'm a passionate programmer with **advanced Python skills** and a strong interest in data-driven technologies. Currently, I'm expanding my expertise by learning **HTML and CSS**, and I'm gearing up to dive into **Data Engineering** to build a career in the field.  
 
-  
-**My Experiences 🙌**  
-I have worked on several basic Python projects, which are available in the repositories on my profile.
+👨‍💻 I have a deep fascination for **Generative AI, Machine Learning, and Big Data**. Learning and experimenting with new technologies excites me, and I'm always looking for ways to apply my skills in real-world projects.  
 
-  
-**Technical Skills 🛠️**  
-- **Programming Language**: Python
-- **Frontend Technologies**: HTML, CSS  
-- **Libraries/Tools**: NumPy, Pandas
+### **My Experience & Projects**  
+💡 I’ve worked on multiple **Python projects**, ranging from data analysis to automation, which you can explore in my repositories. I’m always eager to collaborate on open-source projects and contribute to the tech community.  
 
-  
-**Certifications 📜**  
-- SMIT Certified Python Programmer
+### **Technical Skills** 🛠️  
+- **Programming:** Python, SQL, DDL  
+- **Frontend:** HTML, CSS  
+- **Data & Libraries:** NumPy, Pandas  
+- **Databases & Cloud:** Snowflake, Data Warehousing  
 
-  
-**Honors & Awards 🏅**  
-- Gold Medalist in Master of Commerce from the University of Peshawar
+### **Certifications & Achievements** 📜🏅  
+✅ **SMIT Certified Python Programmer**  
+✅ **5 Snowflake Badges:**  
+   - Data Warehouse  
+   - Collaboration & Marketplace  
+   - Data Applications  
+   - Data Lake  
+   - Data Engineering  
+🥇 **Gold Medalist** – Master of Commerce, University of Peshawar  
 
-  
-**Follow**  
-To follow me on GitHub, search for my username: **KabirKhan1512**
+### **Let's Connect!** 🌎  
+📌 **GitHub:** [@KabirKhan1512](https://github.com/KabirKhan1512)  
+📌 **LinkedIn:** *[Your LinkedIn Profile Here]*  
+📌 **Twitter/X:** *[Your Twitter Handle Here]*  
 
-![Kabir Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirKhan1512&show_icons=true&theme=radical)
-
+![Kabir Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirKhan1512&show_icons=true&theme=radical)  
