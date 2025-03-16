@@ -1,33 +1,70 @@
-# **Hey, I'm Muhammad Kabir Ud Din!** 🚀  
+### **Hey, I'm Muhammad Kabir Ud Din! 👋**
 
-### **About Me**  
-🎓 **Aspiring Data Engineer & Tech Enthusiast**  
-I'm a passionate programmer with **advanced Python skills** and a strong interest in data-driven technologies. Currently, I'm expanding my expertise by learning **HTML and CSS**, and I'm gearing up to dive into **Data Engineering** to build a career in the field.  
+#### **About Me 🚀**  
+🎓 I'm an **aspiring programmer** with advanced knowledge of **Python** and a strong passion for **data-driven technologies**.  
+🔨 Currently, I'm expanding my skill set by learning **HTML** and **CSS**, and I’m gearing up to dive into a **Data Engineering course** to pursue my dream of becoming a **Data Engineer**.  
+👨‍💻 I’m fascinated by the world of **Generative AI**, **Machine Learning**, and **data engineering**, and I thrive on learning new technologies and solving real-world problems.  
+🌟 My goal is to leverage my skills to build **scalable data pipelines** and contribute to the future of **AI-driven innovation**.
 
-👨‍💻 I have a deep fascination for **Generative AI, Machine Learning, and Big Data**. Learning and experimenting with new technologies excites me, and I'm always looking for ways to apply my skills in real-world projects.  
+---
 
-### **My Experience & Projects**  
-💡 I’ve worked on multiple **Python projects**, ranging from data analysis to automation, which you can explore in my repositories. I’m always eager to collaborate on open-source projects and contribute to the tech community.  
+#### **My Experiences 🙌**  
+I’ve worked on several **Python-based projects** that showcase my ability to solve problems and implement solutions. These projects are available in my repositories, and I’m always excited to take on new challenges!  
+- **Python Projects**: Built projects involving **data analysis**, **automation**, and **data manipulation** using libraries like **Pandas** and **NumPy**.  
+- **Data Exploration**: Worked with **SQL** and **Snowflake** to query and analyze datasets, and earned **5 Snowflake badges** for my expertise in data engineering and warehousing.  
 
-### **Technical Skills** 🛠️  
-- **Programming:** Python, SQL, DDL  
-- **Frontend:** HTML, CSS  
-- **Data & Libraries:** NumPy, Pandas  
-- **Databases & Cloud:** Snowflake, Data Warehousing  
+---
 
-### **Certifications & Achievements** 📜🏅  
-✅ **SMIT Certified Python Programmer**  
-✅ **5 Snowflake Badges:**  
-   - Data Warehouse  
-   - Collaboration & Marketplace  
-   - Data Applications  
-   - Data Lake  
-   - Data Engineering  
-🥇 **Gold Medalist** – Master of Commerce, University of Peshawar  
+#### **Technical Skills 🛠️**  
+- **Programming Languages**: Python, SQL, DDL  
+- **Frontend Technologies**: HTML, CSS  
+- **Data Engineering Tools**: Snowflake, AWS S3 (Free Tier)  
+- **Python Libraries**: NumPy, Pandas  
+- **Version Control**: Git, GitHub  
 
-### **Let's Connect!** 🌎  
-📌 **GitHub:** [@KabirKhan1512](https://github.com/KabirKhan1512)  
-📌 **LinkedIn:** *[Your LinkedIn Profile Here]*  
-📌 **Twitter/X:** *[Your Twitter Handle Here]*  
+---
 
+#### **Certifications 📜**  
+- **SMIT Certified Python Programmer**  
+- **Snowflake Badges**:  
+  - Data Warehouse  
+  - Collaboration and Marketplace  
+  - Data Applications  
+  - Data Lake  
+  - Data Engineering  
+
+---
+
+#### **Honors & Awards 🏅**  
+- **Gold Medalist** in Master of Commerce from the **University of Peshawar**.  
+- Recognized for academic excellence and dedication to learning.  
+
+---
+
+#### **What I’m Currently Working On 🌱**  
+- Learning **HTML** and **CSS** to build interactive and visually appealing web pages.  
+- Preparing to start a **Data Engineering course** to deepen my knowledge of **ETL pipelines**, **data warehousing**, and **cloud technologies**.  
+- Exploring **Generative AI** and **Machine Learning** concepts to understand how data powers intelligent systems.  
+
+---
+
+#### **My GitHub Stats 📊**  
 ![Kabir Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirKhan1512&show_icons=true&theme=radical)  
+
+---
+
+#### **Let’s Connect! 🤝**  
+I’m always open to collaborating on exciting projects, discussing new ideas, or just chatting about tech. Feel free to reach out!  
+- **GitHub**: [KabirKhan1512](https://github.com/KabirKhan1512)  
+- **LinkedIn**: [Your LinkedIn Profile] (Add your LinkedIn link if you have one!)  
+- **Email**: [Your Email Address] (Add your email if you’re comfortable sharing it!)  
+
+---
+
+#### **Fun Fact ⚡**  
+When I’m not coding, I enjoy exploring the latest advancements in AI and data engineering, reading tech blogs, and brainstorming creative solutions to complex problems.  
+
+---
+
+#### **Follow Me on GitHub**  
+To follow my journey and explore my projects, search for my username: **KabirKhan1512**  
