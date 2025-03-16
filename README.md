@@ -2,7 +2,7 @@
 
 #### **About Me 🚀**  
 🎓 I'm an **aspiring programmer** with advanced knowledge of **Python** and a strong passion for **data-driven technologies**.  
-🔨 Currently, I'm expanding my skill set by learning **HTML** and **CSS**, and I’m gearing up to dive into a **Data Engineering course** to pursue my dream of becoming a **Data Engineer**.  
+🔨 I’m gearing up to dive into a **Data Engineering course** to pursue my dream of becoming a **Data Engineer**.  
 👨‍💻 I’m fascinated by the world of **Generative AI**, **Machine Learning**, and **data engineering**, and I thrive on learning new technologies and solving real-world problems.  
 🌟 My goal is to leverage my skills to build **scalable data pipelines** and contribute to the future of **AI-driven innovation**.
 
@@ -16,33 +16,31 @@ I’ve worked on several **Python-based projects** that showcase my ability to s
 ---
 
 #### **Technical Skills 🛠️**  
-- **Programming Languages**: Python, SQL, DDL  
-- **Frontend Technologies**: HTML, CSS  
-- **Data Engineering Tools**: Snowflake, AWS S3 (Free Tier)  
-- **Python Libraries**: NumPy, Pandas  
-- **Version Control**: Git, GitHub  
+- **Programming Languages**: 🐍 Python, 📊 SQL, 🗄️ DDL  
+- **Data Engineering Tools**: ❄️ Snowflake, ☁️ AWS S3 (Free Tier)  
+- **Python Libraries**: 🔢 NumPy, 🐼 Pandas  
+- **Version Control**: 🐙 Git, 💻 GitHub  
 
 ---
 
 #### **Certifications 📜**  
-- **SMIT Certified Python Programmer**  
-- **Snowflake Badges**:  
-  - Data Warehouse  
-  - Collaboration and Marketplace  
-  - Data Applications  
-  - Data Lake  
-  - Data Engineering  
+- 🏅 **SMIT Certified Python Programmer**  
+- ❄️ **Snowflake Badges**:  
+  - 🏢 Data Warehouse  
+  - 🤝 Collaboration and Marketplace  
+  - 📱 Data Applications  
+  - 🌊 Data Lake  
+  - 🛠️ Data Engineering  
 
 ---
 
 #### **Honors & Awards 🏅**  
-- **Gold Medalist** in Master of Commerce from the **University of Peshawar**.  
+- 🥇 **Gold Medalist** in Master of Commerce from the **University of Peshawar**.  
 - Recognized for academic excellence and dedication to learning.  
 
 ---
 
 #### **What I’m Currently Working On 🌱**  
-- Learning **HTML** and **CSS** to build interactive and visually appealing web pages.  
 - Preparing to start a **Data Engineering course** to deepen my knowledge of **ETL pipelines**, **data warehousing**, and **cloud technologies**.  
 - Exploring **Generative AI** and **Machine Learning** concepts to understand how data powers intelligent systems.  
 
@@ -50,14 +48,15 @@ I’ve worked on several **Python-based projects** that showcase my ability to s
 
 #### **My GitHub Stats 📊**  
 ![Kabir Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirKhan1512&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirKhan1512&layout=compact&theme=radical)  
 
 ---
 
 #### **Let’s Connect! 🤝**  
 I’m always open to collaborating on exciting projects, discussing new ideas, or just chatting about tech. Feel free to reach out!  
 - **GitHub**: [KabirKhan1512](https://github.com/KabirKhan1512)  
-- **LinkedIn**: [Your LinkedIn Profile] (Add your LinkedIn link if you have one!)  
-- **Email**: [Your Email Address] (Add your email if you’re comfortable sharing it!)  
+- **LinkedIn**: [Kabir Khan](https://www.linkedin.com/in/kabirkhan1512/)  
+- **Email**: [kabirkhan1512@gmail.com](mailto:kabirkhan1512@gmail.com)  
 
 ---
 
