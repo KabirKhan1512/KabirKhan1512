@@ -17,7 +17,8 @@ I’ve worked on several **Python-based projects** that showcase my ability to s
 
 #### **Technical Skills 🛠️**  
 - **Programming Languages**: 🐍 Python, 📊 SQL, 🗄️ DDL  
-- **Data Engineering Tools**: ❄️ Snowflake, ☁️ AWS S3 (Free Tier)  
+- **Data Engineering Tools**: ❄️ Snowflake, ☁️ AWS S3 (Free Tier)
+- **Automation Tools**: 🔄 Apache Airflow
 - **Python Libraries**: 🔢 NumPy, 🐼 Pandas  
 - **Version Control**: 🐙 Git, 💻 GitHub  
 
