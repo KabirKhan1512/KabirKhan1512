@@ -1,49 +1,58 @@
 ### **Hey, I'm Muhammad Kabir Ud Din! 👋**
 
 #### **About Me 🚀**  
-🎓 I'm an **aspiring programmer** with advanced knowledge of **Python** and a strong passion for **data-driven technologies**.  
-🔨 I’m gearing up to dive into a **Data Engineering course** to pursue my dream of becoming a **Data Engineer**.  
-👨‍💻 I’m fascinated by the world of **Generative AI**, **Machine Learning**, and **data engineering**, and I thrive on learning new technologies and solving real-world problems.  
-🌟 My goal is to leverage my skills to build **scalable data pipelines** and contribute to the future of **AI-driven innovation**.
+🎓 I'm a **Data Engineer & Lecturer** with a strong grip on **Python, SQL, AWS, and Snowflake**.  
+💼 Currently building **cloud-native data pipelines** and scraping psychology & sociology data for LLMs at a US-based company.  
+📊 Passionate about **data wrangling**, **automation**, and **cloud infrastructure**, I love turning raw chaos into clean, structured, and scalable datasets.  
+🌍 Fluent in **English, Urdu, and Arabic**, and driven by continuous learning, teaching, and building.
 
 ---
 
-#### **My Experiences 🙌**  
-I’ve worked on several **Python-based projects** that showcase my ability to solve problems and implement solutions. These projects are available in my repositories, and I’m always excited to take on new challenges!  
-- **Python Projects**: Built projects involving **data analysis**, **automation**, and **data manipulation** using libraries like **Pandas** and **NumPy**.  
-- **Data Exploration**: Worked with **SQL** and **Snowflake** to query and analyze datasets, and earned **5 Snowflake badges** for my expertise in data engineering and warehousing.  
+#### **Professional Experience 👨‍💻**  
+- 💡 **Data Engineering Projects**:  
+  - AWS-NiFi-Snowflake real-time streaming pipeline  
+  - Docker & Airflow-based ETL for PSX and Yahoo Finance  
+  - Kafka-powered stock market data stream  
+  - Serverless data transformation pipelines using AWS Lambda & S3  
+- 🧠 **LLM-Oriented Data Wrangling**:  
+  - Extracting structured data from web, PDFs, and academic sources  
+  - Preprocessing psychological/sociological datasets for machine learning workflows  
+  - Storing and managing data in scalable **cloud storage solutions**
 
 ---
 
 #### **Technical Skills 🛠️**  
-- **Programming Languages**: 🐍 Python, 📊 SQL, 🗄️ DDL  
-- **Data Engineering Tools**: ❄️ Snowflake, ☁️ AWS S3 (Free Tier)
-- **Automation Tools**: 🔄 Apache Airflow
-- **Python Libraries**: 🔢 NumPy, 🐼 Pandas  
-- **Version Control**: 🐙 Git, 💻 GitHub  
+- **Programming**: 🐍 Python (OOP, Data Structures), 📊 SQL (DDL/DML/DQL)  
+- **Cloud & Tools**: ☁️ AWS (S3, Lambda, EC2, RDS, Glue, VPC), ❄️ Snowflake, 🧬 Apache Airflow, 🐳 Docker  
+- **Data Handling**: 🐼 Pandas, 🔢 NumPy, 🧹 Data Cleaning, 🔍 Web Scraping  
+- **Others**: 📈 Excel & PowerPoint, 🗃️ Report Writing, 📐 Statistical Analysis  
 
 ---
 
-#### **Certifications 📜**  
-- 🏅 **SMIT Certified Python Programmer**  
-- ❄️ **Snowflake Badges**:  
+#### **Certifications & Training 📜**  
+- 🏅 **Certified Python Programmer** – SMIT  
+- ❄️ **Snowflake Skill Badges** (All 5 Completed):  
   - 🏢 Data Warehouse  
-  - 🤝 Collaboration and Marketplace  
+  - 🤝 Collaboration & Marketplace  
   - 📱 Data Applications  
   - 🌊 Data Lake  
   - 🛠️ Data Engineering  
+- ☁️ **Cloud Data Engineering Track** – Hands-on AWS, SQL, and ETL practices  
+- 📘 **Python Programming Course** – Focused on real-world problem solving & automation
 
 ---
 
-#### **Honors & Awards 🏅**  
-- 🥇 **Gold Medalist** in Master of Commerce from the **University of Peshawar**.  
-- Recognized for academic excellence and dedication to learning.  
+#### **Education & Awards 🎓**  
+- 🥇 **Gold Medalist** – Master of Commerce (CGPA 3.79/4) – University of Peshawar  
+- 🧮 Lecturer in Statistics & Business at Noor e Hamza Islamic College  
+- 📚 Master’s in Islamic Studies | Expert in Fiqh and its Principles  
 
 ---
 
-#### **What I’m Currently Working On 🌱**  
-- Preparing to start a **Data Engineering course** to deepen my knowledge of **ETL pipelines**, **data warehousing**, and **cloud technologies**.  
-- Exploring **Generative AI** and **Machine Learning** concepts to understand how data powers intelligent systems.  
+#### **What I’m Currently Working On 🔥**  
+- Automating **data collection and transformation** for psychology & social sciences content  
+- Building **ETL pipelines** using cloud-native tools for AI/ML readiness  
+- Improving my knowledge in **LLM architecture**, **data modeling**, and **ML pipelines**
 
 ---
 
@@ -54,17 +63,18 @@ I’ve worked on several **Python-based projects** that showcase my ability to s
 ---
 
 #### **Let’s Connect! 🤝**  
-I’m always open to collaborating on exciting projects, discussing new ideas, or just chatting about tech. Feel free to reach out!  
-- **GitHub**: [KabirKhan1512](https://github.com/KabirKhan1512)  
-- **LinkedIn**: [Kabir Khan](https://www.linkedin.com/in/kabirkhan1512/)  
-- **Email**: [kabirkhan1512@gmail.com](mailto:kabirkhan1512@gmail.com)  
+I'm always open to discussing projects, data workflows, and tech ideas. Let's connect!  
+- 🐙 **GitHub**: [KabirKhan1512](https://github.com/KabirKhan1512)  
+- 💼 **LinkedIn**: [Kabir Khan](https://www.linkedin.com/in/kabirkhan1512/)  
+- 📧 **Email**: [kabirkhan1512@gmail.com](mailto:kabirkhan1512@gmail.com)  
 
 ---
 
 #### **Fun Fact ⚡**  
-When I’m not coding, I enjoy exploring the latest advancements in AI and data engineering, reading tech blogs, and brainstorming creative solutions to complex problems.  
+When I’m not coding, I’m either lecturing on business stats, reading Islamic Fiqh, or figuring out how to get LLMs to understand human behavior better.
 
 ---
 
-#### **Follow Me on GitHub**  
-To follow my journey and explore my projects, search for my username: **KabirKhan1512**  
+#### **Support My Work 💖**  
+If you find my projects helpful, drop a ⭐️ on GitHub or just connect—I'd love to hear from fellow techies!
+
