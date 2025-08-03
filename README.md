@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="pic.jpg" alt="Kabir GitHub Banner" width="100%" />
+</p>
+
 ### **Hey, I'm Muhammad Kabir Ud Din! 👋**
 
 #### **About Me 🚀**  
@@ -56,9 +61,24 @@
 
 ---
 
-#### **My GitHub Stats 📊**  
+#### **My GitHub Stats 📊**
+
 ![Kabir Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirKhan1512&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirKhan1512&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirKhan1512&layout=compact&theme=radical)
+
+---
+
+#### 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KabirKhan1512&theme=radical&row=1&column=7" />
+</p>
+
+---
+
+#### 👁️‍🗨️ **Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KabirKhan1512&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
+</p>
 
 ---
 
@@ -77,4 +97,3 @@ When I’m not coding, I’m either lecturing on business stats, reading Islamic
 
 #### **Support My Work 💖**  
 If you find my projects helpful, drop a ⭐️ on GitHub or just connect—I'd love to hear from fellow techies!
-
