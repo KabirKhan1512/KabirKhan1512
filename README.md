@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="pic.jpeg" alt="Kabir GitHub Banner" width="100%" />
+  <img src="pic.jpg" alt="Kabir GitHub Banner" width="100%" />
 </p>
 
 ### **Hey, I'm Muhammad Kabir Ud Din! 👋**
