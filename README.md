@@ -101,6 +101,16 @@ class DataEngineer:
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KabirKhan1512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🎓 Certifications
 
 <div align="center">
@@ -138,7 +148,7 @@ class DataEngineer:
 
 <div align="center">
 
-[![Kabir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KabirKhan1512&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kabir's Contribution Snake](https://raw.githubusercontent.com/KabirKhan1512/KabirKhan1512/output/github-contribution-grid-snake-dark.svg)](https://github.com/KabirKhan1512)
 
 </div>
 
